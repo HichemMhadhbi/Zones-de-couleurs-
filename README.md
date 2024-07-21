@@ -5,6 +5,8 @@ Un espion a été démasqué dans la ville où vous vous trouvez. Son interrogat
 Celui-ci réalise une expérience consistant à demander à plusieurs personnes de placer chacune un jeton sur une table contenant des zones de différentes couleurs. Les chercheurs souhaitent ainsi étudier si le choix de la zone où une personne place son jeton est lié à la couleur des vêtements qu'elle porte.
 
 ## Ce que doit faire votre programme :
+![Uploading image.png…]()
+
 Sur une table est placée une feuille de papier rectangulaire de 90 cm de large et 70 cm de haut, composée de zones de différentes couleurs, comme le décrit la figure ci-dessous. Un certain nombre de personnes placent l'une après l'autre un jeton où elles le souhaitent sur la table, à l'exception des frontières entre les différentes zones.
 
 
